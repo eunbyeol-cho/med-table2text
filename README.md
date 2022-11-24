@@ -1,9 +1,9 @@
 # med-table2text
 
 ### Medical multi-modal generative model
-- We genrate text (operation reports) from table. 
+- We generate text (operation reports) from table. 
 - Dataset is not opened.
-- Detailed descrition will be updated shortly.
+- Detailed description will be updated shortly.
 
 ### Run the code below to train the model.
 ```python
